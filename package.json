@@ -1,0 +1,10 @@
+{
+  "name": "go-crud-api",
+  "version": "1.0.0",
+  "description": "simple crud api using go and gmux",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
